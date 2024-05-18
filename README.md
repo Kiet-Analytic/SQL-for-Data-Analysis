@@ -1,2 +1,2 @@
 # SQL-for-Data-Analysis
-Step-by-step Learning SQL 
+Step-by-step learning SQL
